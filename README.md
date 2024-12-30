@@ -10,14 +10,16 @@ This project analyzes:
 - Freight rates and arbitrage opportunities
 - Refinery margins and regional differentials
 
-## Project Status
+## Features
 
-🚧 Currently in active development. Follow along as we build out trade flow analysis capabilities.
+- Real-time VLCC tracking dashboard
+- Arbitrage calculation engine
+- Freight rate analytics
+- Interactive visualizations
+- Trade strategy examples
 
 ## Getting Started
 
-Development setup and usage instructions coming soon.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### Prerequisites
+```python
+python >= 3.8
